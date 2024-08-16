@@ -3,8 +3,8 @@ package lab3;
 public class Tejdeep {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Tejdeeep GAYYYY");
+		System.out.println("Tejdeep and ARpit married");
 	}
 
 }
